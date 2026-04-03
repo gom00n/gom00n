@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @gom00n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me t.me/motja
+- 👋 Hi, I’m @gom00n AKA Matvey/Motja/Moti Gomon
+- 👀 I’m interested in GIS, maps and fairly niche quizzes
+- 📫 How to reach me: t.me/motja, gomonmattew@gmail.com
 
 <!---
 gom00n/gom00n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
