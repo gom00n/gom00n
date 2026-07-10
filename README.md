@@ -6,13 +6,21 @@ I work mostly at the intersection of **historical maps, cadastral data, and comp
 
 ---
 
-### 🗺️ Featured projects
+### 🛰️ Professional — GIS, maps & data automation
 
 | Project | What it does | Tech |
 |---------|--------------|------|
 | **[AutoGeoReferencing](https://github.com/gom00n/AutoGeoReferencingPublic)** | Automatically georeferences 1940s Palestine 1:20,000 map scans. A CNN detects the printed triangulation-point symbols, matches them to a geodetic control-point database, and solves the pixel → world affine — no manual control-point picking. Best sheets land within ~6 m. | Python · PyTorch · OpenCV · EasyOCR |
 | **[AutoLineDetector](https://github.com/gom00n/AutoLineDetectorPublic)** | Extracts parcel-border **lines** from scanned historical cadastral sheets and vectorizes them to georeferenced polylines — on an ArcGIS Pro *Basic* license. Skeleton-graph tracer + per-run conflation onto the modern cadastre. | Python · GDAL/OGR · scikit-image · shapely |
 | **[NesahTabuParser](https://github.com/gom00n/NesahTabuParserPublic)** | Turns Israeli Land Registry PDF extracts (נסחי טאבו) into a clean Excel sheet — pulls current owners, drops canceled records, and collapses private owners to preserve privacy. | PowerShell · WinForms · pdftotext |
+
+### 🎲 Hobby — quizzes, data toys & web experiments
+
+| Project | What it does | Tech |
+|---------|--------------|------|
+| **[Country Age Map](https://github.com/gom00n/CountriesAge)** | Interactive world map colouring every country by its "age" — first sovereignty, last freed from foreign rule, or current regime date. | JavaScript · Leaflet |
+| **[As_long_as](https://github.com/gom00n/As_long_as)** | Puts historical durations in perspective — pick an event and see which of 100+ others (wars, pandemics, presidencies, tech milestones) lasted just as long, or compare custom date ranges. | JavaScript · HTML |
+| **[QRLife](https://github.com/gom00n/QRLife)** | Turns any link or text into a QR code, then animates it with Conway's Game of Life — a static, dependency-free browser toy. | JavaScript · HTML/CSS |
 | **[G-index](https://github.com/gom00n/G_index)** | Computes the G-index bibliometric metric from citation data. | Python · Jupyter |
 
 ---
